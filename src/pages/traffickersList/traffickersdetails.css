@@ -1,0 +1,21 @@
+.destination_card_bar li{
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    border-right: 1px solid #E3E3E3 !important ;
+}
+
+
+@media (max-width: 767px){
+    .destination_card_bar li {
+        flex: 0 0 50%;
+        max-width: 50%;
+        border-right: 1px solid #E3E3E3 !important;
+    }
+}
+@media (max-width: 575px){
+    .destination_card_bar li {
+        flex: 0 0 100%;
+        max-width: 100%;
+        border-right: 0 !important;
+    }
+}

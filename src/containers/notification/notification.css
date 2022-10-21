@@ -1,0 +1,46 @@
+.logdate_design li{
+    margin-bottom:12px;
+    font-size: 13px;
+    line-height: 1.2;
+}
+.logdate_design li div:first-child{
+    font-weight: 500;
+    position: relative;
+}
+.logdate_design li div:first-child::after{
+    content: ":";
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+.lightpadding{
+    padding: 14px 10px;
+    flex: 1 0;
+    font-size: 12px;
+    font-weight: 200;
+    vertical-align: middle;
+}
+.lightpadding{
+    padding: 14px 10px;
+    flex: 1 0;
+    font-size: 12px;
+    font-weight: 600;
+    vertical-align: middle;
+}
+.notificationtable .light_padding{
+    background: #fff !important;
+    color: rgb(27, 27, 27);
+    border-bottom: 1px solid #dedede;
+}
+.notificationtable .light_padding td{
+    font-weight: 400;
+}
+.notificationtable .dark_padding{
+    cursor: pointer;
+    background: #f1f1f1 !important;
+    border-bottom: 1px solid #ddd;
+    color: rgb(27, 27, 27);
+}
+.notificationtable .dark_padding:hover{
+    background: #ddd !important;
+}

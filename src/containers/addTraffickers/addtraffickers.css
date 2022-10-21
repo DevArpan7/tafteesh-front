@@ -1,0 +1,22 @@
+.trafficker_add_table h4{
+    font-size:15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.traffickerdelete_btn {
+    width: 40px;
+    height: 38px;
+    background: #ef1d1d;
+    color: #fff;
+    border-radius: 3px;
+    transition:  all 300ms ease-in-out;
+    border:1px solid #ef1d1d;
+}
+.traffickerdelete_btn:hover{
+    border:1px solid #ef1d1d;
+    background: #fff;
+    color: #ef1d1d;
+}
+.traffickerdelete_btn svg{
+    width: 20px;
+}

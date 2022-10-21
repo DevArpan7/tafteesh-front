@@ -1,0 +1,36 @@
+.survivor_list_box a.tabledetails{
+    padding: 0 0 0 15px;
+    display: inline-flex;
+    font-weight: 600;
+    color: #0C7698;
+    border: none;
+}
+.social_report_selectbox select{
+    height: 44px;
+    border-color: #0c7698;
+    font-size: 14px;
+    width: 150px;
+}
+.monthbox{
+    width: 220px;
+    padding-right: 10px;
+}
+.monthbox input.disableMonth{
+    height: 100%;
+    border-radius: 4px 0 0 4px !important;
+    background: #fff;
+    color: #000;
+    border-color: #ddd;
+}
+.monthbox .input-group-text{
+    background: #2f4f4f;
+    color: #fff;
+}
+.actionBoxHeading b{
+    font-weight: 600;
+    font-size: 16px;
+}
+.actionBoxHeading span{
+    font-weight: 600;
+    font-size: 16px;
+}

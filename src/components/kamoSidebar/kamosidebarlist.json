@@ -1,0 +1,262 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "fal fa-clipboard",
+        "path": "/admin"
+    },
+    {
+        "title": "Partners",
+        "icon": "fal fa-handshake",
+        "path": "/partners"
+    },
+    {
+        "title": "CIT Approval",
+        "icon": "fal fa-home-heart",
+        "path": "/all-cit"
+    },
+    {
+        "title": "CIT Dimension",
+        "icon": "fal fa-home-heart",
+        "path": "/cit_dimension"
+    },
+    {
+        "title": "CIT Version",
+        "icon": "fal fa-home-heart",
+        "path": "/cit_version"
+    },
+    {
+        "title": "CIT Dimension Question",
+        "icon": "fal fa-home-heart",
+        "path": "/cit_dimension_ques"
+    },
+    {
+        "title": "Organizations",
+        "icon": "fal fa-sitemap",
+        "path": "/organizations"
+    },
+    {
+        "title": "SHG Name",
+        "icon": "fal fa-home-heart",
+        "path": "/shg-home"
+    },
+    {
+        "title": "Shelter Home Questions",
+        "icon": "fal fa-hands-helping",
+        "path": "/shelter-home-question"
+    },
+    {
+        "title": "Collectives",
+        "icon": "fal fa-hands-helping",
+        "path": "/collectives"
+    },
+    {
+        "title": "Survivor Status",
+        "icon": "fal fa-hands-helping",
+        "path": "/all-survivor"
+    },
+    {
+        "title": "Role List",
+        "icon": "fal fa-user",
+        "path": "/role"
+    },
+    {
+        "title": "User Management",
+        "icon": "fal fa-user-circle",
+        "childrens": [
+           
+            {
+                "title": "Add User",
+                "path": "/add-user"
+            },
+            {
+                "title": "User List",
+                "path": "/user-list"
+            }
+            
+        ]
+    },
+    {
+        "title": "Court List",
+        "icon": "fal fa-gavel",
+        "path": "/court"
+    },
+    {
+        "title": "Lawyers",
+        "icon": "fal fa-gavel",
+        "path": "/lawyers-list"
+    },
+    {
+        "title": "Lawyers category",
+        "icon": "fal fa-sitemap",
+        "path": "/lawyers-category"
+    },
+    {
+        "title": "Authority Types",
+        "icon": "fal fa-gavel",
+        "path": "/authority_type"
+    },
+    {
+        "title": "Authority List",
+        "icon": "fal fa-gavel",
+        "path": "/authority_list"
+    },
+    {
+        "title": "Mortgage List",
+        "icon": "fal fa-gavel",
+        "path": "/mortgage"
+    },
+    
+    {
+        "title": "Traffickers List",
+        "icon": "fal fa-user-secret",
+        "path": "/traffickers-list"
+    },
+  
+
+    {
+    "title": "Type Of Agency",
+    "icon":"fal fa-user-secret",
+    "path": "/agency_type"
+    },
+    {
+        "title": "Agency List",
+        "icon":"fal fa-user-secret",
+        "path": "/agency"
+        },
+
+    
+    {
+        "title": "Location Mgmt",
+        "icon": "fal fa-location",
+        "childrens": [
+            {
+                "title": "State",
+                "path": "/states"
+            },
+            {
+                "title": "District",
+                "path": "/districts"
+            },
+            {
+                "title": "City",
+                "path": "/city"
+            },
+            {
+                "title": "Blocks",
+                "path": "/blocks"
+            },
+            {
+                "title": "Police Stations",
+                "path": "/police-station"
+            }
+        ]
+    },
+
+
+    {
+        "title": "Status Mgmt",
+        "icon": "fal fa-location",
+        "childrens": [
+            {
+                "title": "VC Status",
+                "path": "/vc_status"
+            },
+            {
+                "title": "CIT Status",
+                "path": "/cit_status"
+            },
+            {
+                "title": "Diary Status",
+                "path": "/diary_status"
+            },
+            {
+                "title": "Grant Status",
+                "path": "/grant_status"
+            },
+            {
+                "title": "Investigation Status",
+                "path": "/investigation_status"
+            },
+            {
+                "title": "Survivor Status",
+                "path": "/survivor_status"
+            }
+        ]
+    },
+    {
+        "title": "Result Mgmt",
+        "icon": "fal fa-location",
+        "childrens": [
+            {
+                "title": "Investigation Results",
+                "path": "/investigation_results"
+            },
+            {
+                "title": "VC Results",
+                "path": "/vc_results"
+            },
+            {
+                "title": "PC Results",
+                "path": "/pc_results"
+            },
+            {
+                "title": "PC Esc Results",
+                "path": "/pc_escalation_results"
+            },
+            {
+                "title": "VC Esc Results",
+                "path": "/vc_escalation_results"
+            }
+        ]
+    },
+
+   {
+        "title": "Where Loan List",
+        "icon": "fal fa-gavel",
+        "path": "/where-laon"
+    },
+    {
+        "title": "Purpose of Loan List",
+        "icon": "fal fa-gavel",
+        "path": "/loan-purpose"
+    },
+    {
+        "title": "Name of Grant List",
+        "icon": "fal fa-gavel",
+        "path": "/grant-name"
+    },
+    {
+        "title": "Purpose of Grant List",
+        "icon": "fal fa-gavel",
+        "path": "/grant-purpose"
+    },
+    {
+        "title": "Income Type List",
+        "icon": "fal fa-gavel",
+        "path": "/income-type"
+    },
+    {
+        "title": "Mode of Earning",
+        "icon": "fal fa-gavel",
+        "path": "/earning-mode"
+    },
+    {
+        "title": "Act List",
+        "icon": "fal fa-gavel",
+        "path": "/act_list"
+    },
+    {
+        "title": "Section List",
+        "icon": "fal fa-gavel",
+        "path": "/section_list"
+    },
+    {
+        "title": "Document Type Mgmt",
+        "icon": "fal fa-gavel",
+        "path": "/document_list"
+    }
+  
+  
+   
+]
+
